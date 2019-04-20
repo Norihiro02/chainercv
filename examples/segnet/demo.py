@@ -1,6 +1,6 @@
 import argparse
 import matplotlib.pyplot as plt
-
+%matplotlib inline
 import chainer
 
 from chainercv.datasets import camvid_label_colors
